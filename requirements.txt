@@ -1,0 +1,6 @@
+python-telegram-bot==20.5
+APScheduler==3.10.4
+requests==2.32.3
+python-dotenv==1.0.1
+deep-translator==1.11.4
+profanity-check==0.1.1
